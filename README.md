@@ -1,6 +1,6 @@
-# Student Performance Analytics Dashboard
+# student-performance-dashboard
 
-A simple, beginner-to-intermediate project demonstrating Java OOP concepts, CSV data handling, and a clean web-based dashboard.
+A Java-based full-stack mini project that analyzes student performance data from CSV files and presents insights through an interactive web dashboard.
 
 ## Features
 - **CSV Data Parsing**: Loads student data (Name, Marks) from a CSV file using Java.
